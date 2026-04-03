@@ -1,0 +1,16 @@
+*cpython-310*
+*__pycache__
+*egg-info
+data/
+
+output/
+cache/
+logs/
+env/
+slurm_logs/
+hf_cache/
+
+*.env
+miniconda/
+.conda/
+# visualization/
